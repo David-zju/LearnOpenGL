@@ -1,0 +1,8 @@
+{
+    "cmake.configureSettings": {
+      "CMAKE_TOOLCHAIN_FILE": "/Users/david/Dev/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    },
+    "files.associations": {
+      "iostream": "cpp"
+    }
+}
