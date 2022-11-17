@@ -38,6 +38,7 @@
   vscode内部已经把Git常用的命令图形化化了，因此不需要在命令行内手动敲代码。具体的使用可以直接过一遍微软官方的教程：
 
   [在 Visual Studio Code 中使用 Git 版本控制工具 - Learn](https://docs.microsoft.com/zh-cn/learn/modules/use-git-from-vs-code/)
+  
   （当然如果熟悉上面的几个git的基本概念之后，图形界面基本上可以零基础直接上手了，实在有问题再回来看官方的教程）
 
 # 2. 环境安装与配置
