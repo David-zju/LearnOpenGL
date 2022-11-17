@@ -12,7 +12,7 @@
 
 - Git 相关概念
 
-  <img src="https://user-images.githubusercontent.com/55902119/202471985-46690ff8-db37-43cf-8140-17213fd6e848.png" alt="drawing" height="400"/> </br>
+  <img src="https://user-images.githubusercontent.com/55902119/202471985-46690ff8-db37-43cf-8140-17213fd6e848.png" alt="drawing" height="300"/> </br>
   暂存（add），提交（commit），reset，checkout（签出）
 
   1. 提交（commit）可以理解成给Git提交了一个存档点，在之后的代码过程中都可以回溯到这里。在Git中，每次提交时必须填写一条记录（这个信息是必填的，否则寻找当初修改记录时无疑是大海捞针）
